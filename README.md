@@ -12,3 +12,9 @@ Investment Firm Regulation (Articles 26 to 32). <a href="https://eur-lex.europa.
 
 The code should accept as an input the two legs of the SFT as a JSON file (.json) that conforms to the
 securities.json schema of the FIRE Data Format and return the K-TCD for that transaction.
+
+data.json contains the two legs of the SFT as a json file.
+
+Regulation.pdf saves as pdf the Regulation from the URL.
+
+RegTechSubmission.pdf contains my submission to the regulatory aspect of the exercise.
