@@ -1,5 +1,5 @@
 # RegTechChallenge
-RegTechChallenge.ipynb is a basic Python notebook to demonstrate my coding abilities.
+RegTechChallenge.ipynb is Jupyter notebook that demonstrates my coding abilities.
 
 The task is to get a rough understanding of the objectives of the Investment Firm Regulation and implement
 a calculator in Python. There are two aspects, one regulatory and one technical.
